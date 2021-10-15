@@ -7,9 +7,6 @@ import android.util.DisplayMetrics
  * Created by chenxz on 2018/4/21.
  */
 object DisplayManager {
-    init {
-
-    }
 
     private var displayMetrics: DisplayMetrics? = null
 
